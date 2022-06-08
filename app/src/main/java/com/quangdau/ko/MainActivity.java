@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //comment neww
         //this is commen to Fist_new
+        //this commen 2
     }
 }
